@@ -1,0 +1,6 @@
+streamlit>=1.50
+plotly
+pillow
+requests
+folium
+streamlit-folium
